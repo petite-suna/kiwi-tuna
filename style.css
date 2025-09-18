@@ -1,0 +1,29 @@
+/*timer number*/
+.timer {
+    font-size: 55px;
+}
+
+/*timer buttons*/
+.btn{
+    font-size: 35px; 
+}
+
+/*center timer*/
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/*Centers the class called container in the middle of the page*/
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;  
+  align-items: center;      
+}
